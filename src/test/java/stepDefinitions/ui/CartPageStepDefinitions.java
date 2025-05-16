@@ -6,7 +6,6 @@ import io.cucumber.java.en.When;
 import lombok.extern.log4j.Log4j2;
 import org.testng.Assert;
 
-
 @Log4j2
 public class CartPageStepDefinitions {
 

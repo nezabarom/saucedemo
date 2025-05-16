@@ -8,9 +8,6 @@
 4. Hold until tests are running, you can see what's going on in the terminal log.
 5. Look for the report link in the end of test execution log.
 6. See the generated test report.
-7. In case of 'Before All/After All' hook fails in AbstractUiTest class:
-   - Comment 'ScenarioReporter.getCurrent().getLaunch().finish(new FinishExecutionRQ());' in tearDownAll() method
-   - Do not commit AbstractUiTest class to remote
 
 ## Configuration
 
